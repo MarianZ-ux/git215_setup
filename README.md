@@ -1,2 +1,3 @@
-# git215_setup
-Initial repository for ASU course GIT215 
+# # git215_setup
+
+## ## Author: Marian_Zumbado
