@@ -1,3 +1,3 @@
-# # git215_setup
+# # git215
 
-## ## Author: Marian_Zumbado
+## ## Author: Marian Zumbado
